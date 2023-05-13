@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Apr 23 19:27:54 2023
-@author: 6E1
-"""
-
 #%%Acción
 class Accion:
     def __init__(self,nombre):
